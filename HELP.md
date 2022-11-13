@@ -1,4 +1,4 @@
-# XYZ Help documentation
+# XYZ Help documentation 📃
 The Full Help Documentation of XYZ!
 # The Basics
 **When you load up XYZ, it should open up the loader and executor. There should be text at the side that should consist of buttons like**
