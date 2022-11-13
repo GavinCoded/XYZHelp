@@ -9,4 +9,5 @@ The Full Help Documentation of XYZ!
 - Open
 - Script Hub
 - Settings
+
 **These Buttons do all the basics tasks you would need in a executor!**
